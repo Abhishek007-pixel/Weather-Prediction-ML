@@ -54,6 +54,3 @@ The application uses a decision tree classifier to predict the weather based on 
 
 12. The user can enter new inputs and click the "Predict" button to get updated weather predictions.
 
-That's it! You can now use the weather prediction application to get weather forecasts based on the provided input.
-
-Feel free to customize and enhance the application as needed. Enjoy predicting the weather!
