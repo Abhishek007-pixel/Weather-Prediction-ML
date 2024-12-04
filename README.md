@@ -17,4 +17,3 @@ Here, we will use a typical model from the number of models built above to test 
 
 ![model_output](https://github.com/Diwas524/Weather-Prediction-Using-Machine-Learning/blob/main/output.png)
 
-# Visit https://aihubprojects.com for more AI Projects
